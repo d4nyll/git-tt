@@ -1,5 +1,7 @@
 # `git tt`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/d4nyll/git-tt.svg)](https://greenkeeper.io/)
+
 `git tt` (short for **t**ime **t**ravel) is a Git extension that makes it <i>super easy</i>™ for you to commit in the future or the past!
 
 ```console
