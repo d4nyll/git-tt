@@ -20,7 +20,7 @@ $ nvm install node
 After Node.js is installed, install `git tt` globally it using npm.
 
 ```console
-$ npm install --global git-tt
+$ npm install --global @d4nyll/git-tt
 ```
 
 ## Usage
