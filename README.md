@@ -80,8 +80,9 @@ To test it manually, run `npm link`, which will make the `git tt` command availa
 
 ### Roadmap
 
-If this tool becomes more popular, or if you'd like to contribute to new features, here are some of the features I have in mind:
+If this tool becomes more popular, or if you'd like to contribute to new features, here are some of the features I have in mind (in order of importance):
 
-* Make error output more user-friendly
 * Add fuzziness to the dates - if the user specifies a `--fuzzy` flag, add a few seconds/minutes in a random fashion so the dates are not so 'precise'. E.g. instead of `Thu Oct 25 12:00:00 2018 +0100`, make it `Thu Oct 25 12:03:56 2018 +0100`
+* Make error output more user-friendly, perhaps using [`chalk`](https://github.com/chalk/chalk)
+* Explore packaging project into stand-alone executable using [`pkg`](https://github.com/zeit/pkg)
 * Allow users to retrospectively modify the author and committer date of a commit
