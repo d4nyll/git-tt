@@ -18,8 +18,8 @@
   "homepage": "https://github.com/d4nyll/git-tt",
   "repository": "github:d4nyll/git-tt",
   "bugs": {
-    "url" : "https://github.com/d4nyll/git-tt/issues",
-    "email" : "dan@danyll.com"
+    "url": "https://github.com/d4nyll/git-tt/issues",
+    "email": "dan@danyll.com"
   },
   "main": "index.js",
   "author": "Daniel Li <dan@danyll.com>",
@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "chrono-node": "^1.3.5",
-    "moment": "^2.22.2"
+    "moment": "^2.24.0"
   }
 }
